@@ -1,0 +1,9 @@
+title = "Senran Kagura 2: Deep Crimson"
+description = "The game follows the Hanzo & Hebijo Shinobi Academies as they battle for good and evil respectively. This time however there is a greater evil at work, as the tyrannous tycoon behind the Hebijo Academy is hell-bent on raining terror across all of Japan by utilising a destructive army of summoned demons. This great danger thrusts the girls together and forces them to unite and work as one in a way the series has never seen before."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000165000"
+region = "usa"
+release_date = "2014-03-07"
