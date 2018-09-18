@@ -1,9 +1,24 @@
 title = "Senran Kagura 2: Deep Crimson"
-description = "The game follows the Hanzo & Hebijo Shinobi Academies as they battle for good and evil respectively. This time however there is a greater evil at work, as the tyrannous tycoon behind the Hebijo Academy is hell-bent on raining terror across all of Japan by utilising a destructive army of summoned demons. This great danger thrusts the girls together and forces them to unite and work as one in a way the series has never seen before."
+description = "Senran Kagura 2: Deep Crimson is a is a 3D side-scrolling action game developed by Tamsoft and published by Marvelous Inc. It is a direct sequel to Senran Kagura Burst and features co-op in which several new attacks focus on it."
 needs_system_files = true
 needs_shared_font = true
 
 [[releases]]
 title = "0004000000165000"
 region = "usa"
-release_date = "2014-03-07"
+release_date = "2015-09-15"
+
+[[releases]]
+title = "0004000000165800"
+region = "eur"
+release_date = "2015-08-27"
+
+[[releases]]
+title = "00040000000FB100"
+region = "jpn"
+release_date = "2014-08-07"
+
+[[releases]]
+title = "0004000000150200"
+region = "kor"
+release_date = "2015-02-12"
